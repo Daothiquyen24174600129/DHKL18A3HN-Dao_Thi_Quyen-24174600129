@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien>
+  <SinhVien>
+    <MaSinhVien>24174600129</MaSinhVien>
+    <TenSinhVien>Đào Thị Quyên</TenSinhVien>
+    <NamSinh>2006</NamSinh>
+    <Lop>DHKL18A3HN</Lop>
+    <GioiTinh>Nữ</GioiTinh>
+  </SinhVien>
+  <SinhVien>
+    <MaSinhVien>24174600130</MaSinhVien>
+    <TenSinhVien>Nguyễn Văn B</TenSinhVien>
+    <NamSinh>2005</NamSinh>
+    <Lop>DS11A</Lop>
+    <GioiTinh>Nam</GioiTinh>
+  </SinhVien>
+</DanhSachSinhVien>
